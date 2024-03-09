@@ -16,7 +16,7 @@
                     font-family: cursive;
                     text-shadow:4px 4px 10px black;
                     ">Tempat bersejarah yang mengagumkan</h1>
-                    <p><a class="btn btn-lg btn-outline-warning" href="hasil-kat.php?id_kategori=10">Cek</a></p>
+                    <p><a class="btn btn-lg btn-outline-warning mt-3" href="hasil-kat.php?id_kategori=10">Cek</a></p>
                 </div>
             </div>
         </div>
@@ -42,7 +42,7 @@
                     font-family: cursive;
                     text-shadow:4px 4px 10px black;
                     ">Kuliner yang khas</h1>
-                    <p><a class="btn btn-lg btn-outline-danger" href="hasil-kat.php?id_kategori=2">Ayo Makan!</a></p>
+                    <p><a class="btn btn-lg btn-outline-danger mt-3" href="hasil-kat.php?id_kategori=2">Ayo Makan!</a></p>
                 </div>
             </div>
         </div>

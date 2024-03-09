@@ -6,6 +6,7 @@
     border-radius: 15px;
     margin-top: 100px;
     padding: 30px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
     ">
         <div class="row featurette">
             <div class="col-md-7">
